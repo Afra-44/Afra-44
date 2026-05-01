@@ -5,7 +5,7 @@ I'm a self-taught web developer who loves building interactive and visually clea
 
 - Front-end-developer & Designer
 - Studying Bsc Physics  
-- Currently learning 3d modelling
+- Currently learning computational modelling
 - Willing to collaborate
 
 ### Skills: 
